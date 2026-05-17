@@ -157,18 +157,25 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="gfw-knocker--mahsang"></div>
+<div id="5rahim--seanime"></div>
 
-### GFW-knocker--MahsaNG
+### 5rahim--seanime
 
-🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v16-(1405-2-25)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
+🔗 [source](https://github.com/5rahim/seanime) – [<code><small>v3.8.2</small></code>](https://github.com/5rahim/seanime/releases/tag/v3.8.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `MahsaNG_16_arm64-v8a.apk` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_arm64-v8a.apk) |
-| `MahsaNG_16_armeabi-v7a.apk` | 60.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_armeabi-v7a.apk) |
-| `MahsaNG_16_x86.apk` | 63.7 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86.apk) |
-| `MahsaNG_16_x86_64.apk` | 62.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86_64.apk) |
+| `latest-linux.yml` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/latest-linux.yml) |
+| `latest-mac.yml` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/latest-mac.yml) |
+| `latest.yml` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/latest.yml) |
+| `seanime-3.8.2_Linux_arm64.tar.gz` | 25.8 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/seanime-3.8.2_Linux_arm64.tar.gz) |
+| `seanime-3.8.2_Linux_x86_64.tar.gz` | 27.9 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/seanime-3.8.2_Linux_x86_64.tar.gz) |
+| `seanime-3.8.2_MacOS_arm64.tar.gz` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/seanime-3.8.2_MacOS_arm64.tar.gz) |
+| `seanime-3.8.2_MacOS_x86_64.tar.gz` | 28.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/seanime-3.8.2_MacOS_x86_64.tar.gz) |
+| `seanime-3.8.2_Windows_x86_64.zip` | 28.1 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/seanime-3.8.2_Windows_x86_64.zip) |
+| `seanime-denshi-3.8.2_MacOS_arm64.dmg.blockmap` | 148 KB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/seanime-denshi-3.8.2_MacOS_arm64.dmg.blockmap) |
+| `seanime-denshi-3.8.2_MacOS_arm64.zip.blockmap` | 141 KB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/seanime-denshi-3.8.2_MacOS_arm64.zip.blockmap) |
+| `seanime-denshi-3.8.2_Windows_x64.exe.blockmap` | 128 KB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/5rahim/seanime/seanime-denshi-3.8.2_Windows_x64.exe.blockmap) |
 
 ---
 
