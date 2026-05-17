@@ -25,4 +25,4 @@ praydog/REFramework-nightly
 iampedii/WhiteDNS
 
 # 6. No filter - keep all assets from the release 
-GFW-knocker/MahsaNG
+5rahim/seanime
