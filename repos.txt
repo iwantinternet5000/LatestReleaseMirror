@@ -23,3 +23,6 @@ praydog/REFramework-nightly
 
 # 6. No filter - keep all assets from the release 
 iampedii/WhiteDNS
+
+# 6. No filter - keep all assets from the release 
+GFW-knocker/MahsaNG
