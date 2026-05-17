@@ -1,0 +1,8 @@
+version: 3.8.2
+files:
+  - url: seanime-denshi-3.8.2_Windows_x64.exe
+    sha512: uQjvL9zd3G+EURDpBpdXmontFCvbG/mqNjRYUhCevxd406vibGIUqIA+X5lNwxYC7RhcZp+ZC0/0H01pdfDu1w==
+    size: 123829881
+path: seanime-denshi-3.8.2_Windows_x64.exe
+sha512: uQjvL9zd3G+EURDpBpdXmontFCvbG/mqNjRYUhCevxd406vibGIUqIA+X5lNwxYC7RhcZp+ZC0/0H01pdfDu1w==
+releaseDate: '2026-05-14T08:18:57.719Z'

@@ -1,0 +1,9 @@
+version: 3.8.2
+files:
+  - url: seanime-denshi-3.8.2_Linux_x86_64.AppImage
+    sha512: 6QSFq9f5kjvygzuqofCnDS1JKq7LrdXXXZb7M85pEl5R45IajMgsQ09qEXhcvXuNausKNIFrPAw4ojS/evL0Xg==
+    size: 179129499
+    blockMapSize: 187567
+path: seanime-denshi-3.8.2_Linux_x86_64.AppImage
+sha512: 6QSFq9f5kjvygzuqofCnDS1JKq7LrdXXXZb7M85pEl5R45IajMgsQ09qEXhcvXuNausKNIFrPAw4ojS/evL0Xg==
+releaseDate: '2026-05-14T08:20:10.208Z'

@@ -1,0 +1,17 @@
+version: 3.8.2
+files:
+  - url: seanime-denshi-3.8.2_MacOS_arm64.zip
+    sha512: KGLoO5NAl3K6OXKWd/VMfBVUeacR5etp21DBxljvFn0CJC5Sp1+KbyVIJS3wc3SwrjGD1B7fITy1VzSISDj0hQ==
+    size: 140545365
+  - url: seanime-denshi-3.8.2_MacOS_arm64.dmg
+    sha512: Pi8jmBon3ce+Pkf6jVsQAE5QRq9GFMGvUY9Ya5u+oeQIMs32IfJUlHRjC/CzfwQycOqOfw9bcd1emxyTMibnEA==
+    size: 145832487
+  - url: seanime-denshi-3.8.2_MacOS_arm64.dmg
+    sha512: Pi8jmBon3ce+Pkf6jVsQAE5QRq9GFMGvUY9Ya5u+oeQIMs32IfJUlHRjC/CzfwQycOqOfw9bcd1emxyTMibnEA==
+    size: 145832487
+  - url: seanime-denshi-3.8.2_MacOS_arm64.dmg
+    sha512: Pi8jmBon3ce+Pkf6jVsQAE5QRq9GFMGvUY9Ya5u+oeQIMs32IfJUlHRjC/CzfwQycOqOfw9bcd1emxyTMibnEA==
+    size: 145832487
+path: seanime-denshi-3.8.2_MacOS_arm64.zip
+sha512: KGLoO5NAl3K6OXKWd/VMfBVUeacR5etp21DBxljvFn0CJC5Sp1+KbyVIJS3wc3SwrjGD1B7fITy1VzSISDj0hQ==
+releaseDate: '2026-05-14T08:18:59.697Z'
