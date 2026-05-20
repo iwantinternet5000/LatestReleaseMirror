@@ -26,3 +26,6 @@ iampedii/WhiteDNS
 
 # 6. No filter - keep all assets from the release 
 5rahim/seanime
+
+# 6. No filter - keep all assets from the release 
+2dust/v2rayN
