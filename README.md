@@ -157,18 +157,6 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayn"></div>
-
-### 2dust--v2rayN
-
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.3)
-
-| File | Size | Download |
-|------|------|----------|
-| `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-rhel-riscv64.rpm) |
-
----
-
 <div id="5rahim--seanime"></div>
 
 ### 5rahim--seanime
@@ -257,6 +245,23 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="mirarr-app--network-checker"></div>
+
+### mirarr-app--network-checker
+
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.6.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.6.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `app-arm64-v8a-release.apk` | 31.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
+| `app-armeabi-v7a-release.apk` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
+| `app-release.apk` | 52.0 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
+| `app-x86_64-release.apk` | 20.2 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
+| `rdnbenet-linux-x64.zip` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
+| `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
+
+---
+
 <div id="praydog--reframework-nightly"></div>
 
 ### praydog--REFramework-nightly
@@ -275,15 +280,15 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.32</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.32)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.33</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.33)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.32.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.32.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.32.apk` | 16.9 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.32.apk) |
-| `mhrv-rs-android-universal-v1.9.32.apk` | 44.5 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.32.apk) |
-| `mhrv-rs-android-x86-v1.9.32.apk` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.32.apk) |
-| `mhrv-rs-android-x86_64-v1.9.32.apk` | 20.5 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.32.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.33.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.33.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.33.apk` | 16.9 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.33.apk) |
+| `mhrv-rs-android-universal-v1.9.33.apk` | 44.5 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.33.apk) |
+| `mhrv-rs-android-x86-v1.9.33.apk` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.33.apk) |
+| `mhrv-rs-android-x86_64-v1.9.33.apk` | 20.5 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.33.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 10.4 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/iwantinternet5000/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
