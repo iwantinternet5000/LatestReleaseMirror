@@ -28,4 +28,4 @@ iampedii/WhiteDNS
 5rahim/seanime
 
 # 6. No filter - keep all assets from the release 
-2dust/v2rayN
+mirarr-app/network-checker
