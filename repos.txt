@@ -21,11 +21,14 @@ KaringX/karing|\.dmg|\.exe
 # 6. No filter - keep all assets from the release 
 praydog/REFramework-nightly
 
-# 6. No filter - keep all assets from the release 
+# 7. No filter - keep all assets from the release 
 iampedii/WhiteDNS
 
-# 6. No filter - keep all assets from the release 
+# 8. No filter - keep all assets from the release 
 5rahim/seanime
 
-# 6. No filter - keep all assets from the release 
+# 9. No filter - keep all assets from the release 
 mirarr-app/network-checker
+
+# 10. No filter - keep all assets from the release 
+KNG7-P/Se7en-Pro
